@@ -23,7 +23,7 @@ a source of truth for tracking & monitoring KPI metrics.
 - Dashboard development,
 - Executive report
 ## Methodology
-- Write SQL codes to pull data from postgreSQL relational database
+- Write SQL codes to pull data from PostgreSQL relational database
 - Extract the sales, product and customer from DTC tables
 - Applied statistical analysis to identify the following;
 -- Total sales, profits, order qty, average order qty, highest sales, lowest profits
@@ -46,5 +46,5 @@ low. Applied an upward arrow for positive profit and a downward arrow for negati
 to help the company make informed decisions that would increase revenue and accelerate
 growth.
 
-## Check the full executive report here ![](E-Commerce_Retail Analysis Executive Report (Lateefat).pdf)
+## Check the full executive report attached (Name: "E-Commerce_Retail Analysis Executive Report (Lateefat).pdf")
 
