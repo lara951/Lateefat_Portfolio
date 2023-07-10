@@ -34,7 +34,7 @@ sales using appropriate visuals)
 segment by sales, ship mode by sales, and top 5 product id with highest profit
 - Drill down view; (shows relationship of sales and discounts, create 4 groups for customer
 ages and show sales by age
-groups, relationship of discounts and profit, trend of ship date, top 5 states with highest
+groups, the relationship of discounts and profit, trend of ship date, top 5 states with highest
 profit, top 5 cities with highest sales
 - Time Intelligence view: Created a table view to show sales year to day, sales last year, sales
 2 years ago, sales 3 years ago and apply. Created a drill-down table view that allows the
@@ -44,4 +44,7 @@ a conditional statement to group profit into high and low profit using negative 
 low. Applied an upward arrow for positive profit and a downward arrow for negative
 - Created an executive report outlining the goal, methodology, insights, and recommendations
 to help the company make informed decisions that would increase revenue and accelerate
-growth
+growth.
+
+## Check the full executive report here ![](E-Commerce_Retail Analysis Executive Report (Lateefat).pdf)
+
