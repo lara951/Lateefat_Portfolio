@@ -21,7 +21,7 @@ a source of truth for tracking & monitoring KPI metrics.
 - Modeling,
 - Database management,
 - Dashboard development,
-- Executive report
+- Executive report.
 ## Methodology
 - Write SQL codes to pull data from PostgreSQL relational database
 - Extract the sales, product and customer from DTC tables
