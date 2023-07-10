@@ -26,7 +26,7 @@ a source of truth for tracking & monitoring KPI metrics.
 - Write SQL codes to pull data from PostgreSQL relational database
 - Extract the sales, product and customer from DTC tables
 - Applied statistical analysis to identify the following;
--- Total sales, profits, order qty, average order qty, highest sales, lowest profits
+   -Total sales, profits, order qty, average order qty, highest sales, lowest profits
 - Develop an analytics dashboard with 4 views;
 - Summary view: (shows KPI metrics, trends, regional performances and ship modes by
 sales using appropriate visuals)
