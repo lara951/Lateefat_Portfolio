@@ -1,5 +1,5 @@
 # E-COMMERCE / RETAIL ANALYSIS
-![](intro_image.jpg)
+![](intro_image.png)
 The goal is to execute an end-to-end data analytics project by performing
 ETL process, building a data model, applying statistical methods and
 building an interactive dashboard solution that will serve as a centralized
