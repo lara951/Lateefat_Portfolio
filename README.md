@@ -46,5 +46,5 @@ low. Applied an upward arrow for positive profit and a downward arrow for negati
 to help the company make informed decisions that would increase revenue and accelerate
 growth.
 
-## Check the full executive report here [E-Commerce_Retail Analysis Executive Report ]("https://github.com/lara951/Vacat_Retail_Analysis/blob/main/E-Commerce_Retail%20Analysis%20Executive%20Report%20(Lateefat).pdf")
+## Check the full executive report here [E-Commerce_Retail Analysis Executive Report ](https://github.com/lara951/Vacat_Retail_Analysis/blob/main/E-Commerce_Retail%20Analysis%20Executive%20Report%20(Lateefat).pdf)
 
